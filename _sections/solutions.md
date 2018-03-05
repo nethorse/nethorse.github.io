@@ -2,7 +2,7 @@
 title: Solutions
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: solutions
-icon: fa-comment
+icon: fa-server
 order: 2
 ---
 ![vision](assets/images/solutions.png)
