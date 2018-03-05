@@ -3,7 +3,7 @@ title: Vision
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: vision
 auto-header: Faster AI, Easier Life!
-icon: fa-check
+icon: fa-eye
 order: 1
 ---
 ![vision](assets/images/vision1.jpg)
