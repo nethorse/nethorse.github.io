@@ -2,7 +2,7 @@
 title: Company
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: company
-icon: fa-th
+icon: fa-building-o
 order: 3
 ---
 ![company](assets/images/company1.jpg)
