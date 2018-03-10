@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ai Bays Inc.
 author: AiBays Inc
 email: contact@aibays.com
-avatar: assets/images/avtar.png
+avatar: assets/images/avatar1.png
 
 # You'll want to customize url and baseurl for your own site:
 #baseurl: "" # the subpath of your site, e.g. /blog
