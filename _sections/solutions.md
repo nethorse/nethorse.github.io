@@ -11,4 +11,4 @@ order: 2
 - Fast pixel level image segmentation
 - Fast video content analysis and understanding
 
-[apk](assets/apk/clairvoyance-20180317.apk)
+[Download clairvoyance](assets/apk/clairvoyance-20180317.apk)
