@@ -10,3 +10,5 @@ order: 2
 - Mobile device for small object recognition and counting
 - Fast pixel level image segmentation
 - Fast video content analysis and understanding
+
+![apk](assets/apk/clairvoyance-20180317.apk)
