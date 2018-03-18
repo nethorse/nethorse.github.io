@@ -3,7 +3,7 @@ title: Team
 cover-photo: assets/images/banner.jpg
 cover-photo-alt: Team
 icon: fa-user
-order: 4
+order: 5
 ---
 
 ### Tao He, Ph.D, CEO & Co-Founder. 

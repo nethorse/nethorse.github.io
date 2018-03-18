@@ -1,7 +1,7 @@
 ---
-title: Solutions
+title: Solution
 cover-photo: assets/images/banner.jpg
-cover-photo-alt: solutions
+cover-photo-alt: solution
 icon: fa-server
 order: 2
 ---
@@ -10,5 +10,3 @@ order: 2
 - Mobile device for small object recognition and counting
 - Fast pixel level image segmentation
 - Fast video content analysis and understanding
-
-[Download clairvoyance](assets/apk/clairvoyance-20180317.apk)
