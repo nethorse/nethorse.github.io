@@ -6,12 +6,12 @@ icon: fa-product-hunt
 order: 3
 ---
 ## Clairvoyance
-- Management Information System for steel bar
-- Boder of steel bar bundle auto-recognition
-- Number of steel bar auto-counting
-- Two-dimension code(QR code) supported
+- Management Information System for metal rods
+- Border auto-recognition of metal rod bundle
+- Auto-counting of metal rods
+- Two-dimension code (QR code) supported
 
-APP Demo 
+Demo App Download
 [![android](assets/images/android.png)](assets/apk/clairvoyance-20180317.apk)
 
 ![vision](assets/images/c1.jpg)
